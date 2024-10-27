@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Task from './components/Task';
+import Task from './components/task';
 import TaskForm from './components/TaskForm';
 
 const App = () => {
